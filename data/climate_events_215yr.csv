@@ -1,0 +1,10 @@
+node_year,predicted_year,actual_year,event_name,location,severity,deviation_years,sine_position,description,primary_sources,verification_method
+536,536,536,Darkness Event,Global,Catastrophic,0,Trough,"Sun without brightness for 18 months, 2.5°C global cooling","Procopius Wars VIII.14.5; Cassiodorus Variae XII.25","Ice cores, tree rings, multiple chronicles"
+751,751,754,Constantinople Freeze,Byzantine Empire,Severe,3,Ascending,"Harbor frozen solid, sea like stone","Theophanes Chronographia","Byzantine records, multiple sources"
+966,966,963,Rhine Freeze,Central Europe,Extreme,-3,Ascending,"Rhine crossed on foot, wine froze in cellars","Annales Fuldenses; Annales Sangallenses","German chronicles, tree rings"
+1181,1181,1179,Great Winter,England,Severe,-2,Near Peak,"Thames frozen 3 months, crossed on horseback","Ralph de Diceto; Roger of Hoveden","English royal records"
+1396,1396,1397,Baltic Freeze,Northern Europe,Major,1,Descending,"Baltic Sea completely frozen, Sweden to Germany crossing","Lübeck Chronicles; Hanseatic Records","Multiple port records"
+1479,NA,1479,Black Sea Freeze,Black Sea Region,Extreme,NA,Descending,"Black Sea frozen solid, Ottoman armies crossed","Ottoman Archives; Byzantine Chronicles","Ottoman and Byzantine sources"
+1611,1611,1608,Lake Constance Freeze,Central Europe,Extreme,-3,Descending,"Lake frozen solid, Great Winter 1607-1608","Bodensee-Chroniken","German/Swiss records"
+1826,1826,1823,Seine Freeze,France,Major,-3,Trough,"Seine frozen at Paris, end of Little Ice Age","Times of London; Journal de Paris","Newspaper archives"
+2041,2041,2044,Predicted Event,Global,Moderate,3,Ascending,"Predicted based on pattern and sine modulation","This study","Prediction to be verified"
