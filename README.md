@@ -90,14 +90,16 @@ Based on the pattern:
 Found an error? Have additional historical data? Questions about the analysis?
 - Open an issue
 - Submit a pull request
-- Email: [your-email]
+- Email: erik.hoekstra@astgard.com
 
 ### 📝 Citation
 
 If you use this work, please cite:
 ```
-[Your Name]. (2024). The 215-Year Climate Cycle: Rediscovering Earth's Forgotten Rhythm. 
-Zenodo. https://doi.org/10.5281/zenodo.XXXXXX
+Erik Hoekstra. (2024). The 215-Year Climate Cycle: Rediscovering Earth's Forgotten Rhythm.
+Repository: https://github.com/Erik-Hoekstra/215-year-climate-cycle
+Zenodo: https://doi.org/10.5281/zenodo.XXXXXX
+License: CC-BY-4.0
 ```
 
 ### ⚖️ License
