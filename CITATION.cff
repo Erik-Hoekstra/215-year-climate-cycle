@@ -1,17 +1,12 @@
 cff-version: 1.2.0
-title: The 215-Year Climate Cycle - Rediscovering Earth's Forgotten Rhythm
+title: "The 215-Year Climate Cycle: Rediscovering Earth's Forgotten Rhythm"
 message: "If you use this dataset, please cite it as below."
 type: dataset
 authors:
   - given-names: [Your First Name]
     family-names: [Your Last Name]
     email: [your-email@example.com]
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.XXXXXX
 repository-code: "https://github.com/[your-username]/215-year-climate-cycle"
-url: "https://doi.org/10.5281/zenodo.XXXXXX"
 abstract: >-
   Analysis of 1,500 years of historical climate records reveals a 215-year 
   periodicity in extreme climate events with remarkable precision (±5 years). 
@@ -30,6 +25,5 @@ keywords:
   - climate history
   - dendrochronology
 license: CC-BY-4.0
-commit: [Git commit hash will go here]
 version: 1.0.0
-date-released: '2024-XX-XX'
+date-released: '2024-01-01'
