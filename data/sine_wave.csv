@@ -1,0 +1,14 @@
+year,event,predicted,actual,deviation,sine_phase,sine_value,severity_modifier
+536,Darkness Event,536,536,0,0.000,-1.000,Maximum
+754,Constantinople,751,754,3,0.168,-0.809,High
+963,Rhine Freeze,966,963,-3,0.334,-0.309,Moderate
+1179,Thames Freeze,1181,1179,-2,0.502,0.309,Low
+1397,Baltic Freeze,1396,1397,1,0.670,0.809,Moderate
+1608,Constance Freeze,1611,1608,-3,0.836,0.951,High
+1823,Seine Freeze,1826,1823,-3,1.004,-0.309,High
+2044,Predicted,2041,2044,3,1.172,-0.809,Moderate
+536,Cycle Start,536,536,0,0.000,-1.000,TROUGH
+1181,Cycle Peak,1181,1181,0,0.500,1.000,PEAK
+1826,Cycle Trough,1826,1826,0,1.000,-1.000,TROUGH
+2471,Next Peak,2471,2471,0,1.500,1.000,PEAK
+3116,Next Trough,3116,3116,0,2.000,-1.000,TROUGH

@@ -1,0 +1,8 @@
+periodicity,constantinople_754,rhine_963,thames_1179,baltic_1397,constance_1608,seine_1823,avg_deviation,max_deviation,harmonics_score,notes
+210,8,7,13,21,25,33,17.83,33,Poor,Drift becomes extreme
+214,4,0,1,5,1,3,2.33,5,Good,Best statistics but one outlier
+215,3,3,2,1,3,3,2.50,3,Excellent,Best overall - no outliers
+216,2,4,4,3,8,9,5.00,9,Very Good,Worse fit in later centuries
+220,6,14,16,24,36,44,23.33,44,Fair,Much too long
+230,16,34,36,54,76,94,51.67,94,Poor,Completely fails
+"Notes:","All values show absolute deviation in years","Negative values converted to positive","215 chosen for consistency despite 214's marginally better average","Harmonics: 215×2=430, 215×3=645"
