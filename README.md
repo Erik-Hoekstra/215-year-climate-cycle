@@ -1,6 +1,6 @@
 # The 215-Year Climate Cycle: Rediscovering Earth's Forgotten Rhythm
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16753807.svg)](https://doi.org/10.5281/zenodo.16753807)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## A Data-Driven Discovery of a Precise Climate Periodicity
@@ -98,7 +98,7 @@ If you use this work, please cite:
 ```
 Erik Hoekstra. (2024). The 215-Year Climate Cycle: Rediscovering Earth's Forgotten Rhythm.
 Repository: https://github.com/Erik-Hoekstra/215-year-climate-cycle
-Zenodo: https://doi.org/10.5281/zenodo.XXXXXX
+Zenodo: https://doi.org/10.5281/zenodo.16753807
 License: CC-BY-4.0
 ```
 
